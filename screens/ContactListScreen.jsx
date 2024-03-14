@@ -4,10 +4,10 @@ import React from 'react'
 const data = [
     { id: 1, firstName: 'Youssoupha', lastName: 'GUEYE', phoneNumber: '123-456-7890' },
   { id: 2, firstName: 'Lalia', lastName: 'SY', phoneNumber: '987-654-3210' },
-  { id: 1, firstName: 'Babacar', lastName: 'DOUMBOUYA', phoneNumber: '123-456-2003' },
-  { id: 2, firstName: 'Mame Fatou', lastName: 'DOUMBOUYA', phoneNumber: '987-654-2006' },
-  { id: 1, firstName: 'Fatou Marieme', lastName: 'DOUMBOUYA', phoneNumber: '123-456-2009' },
-  { id: 2, firstName: 'Rokhaya Makha', lastName: 'DOUMBOUYA', phoneNumber: '987-654-2012' },
+  { id: 3, firstName: 'Babacar', lastName: 'DOUMBOUYA', phoneNumber: '123-456-2003' },
+  { id: 4, firstName: 'Mame Fatou', lastName: 'DOUMBOUYA', phoneNumber: '987-654-2006' },
+  { id: 5, firstName: 'Fatou Marieme', lastName: 'DOUMBOUYA', phoneNumber: '123-456-2009' },
+  { id: 6, firstName: 'Rokhaya Makha', lastName: 'DOUMBOUYA', phoneNumber: '987-654-2012' },
 
 
 ];
