@@ -9,7 +9,7 @@ export default function ContactDetailScreen({ route}) {
       }
     
       useLayoutEffect(() => {
-          navigation.setOptions({ title: "Appeler"})
+          navigation.setOptions({ title: contact.nom})
       },[])
   return (
     <View style={styles.container}>
